@@ -1,0 +1,16 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Pune,Junnar(Narayangaon),Tomato,Local,FAQ,2500,4250,3200,21 Oct 2021
+2,Pune,Junnar(Narayangaon),Tomato,Local,FAQ,2000,4000,3000,20 Oct 2021
+3,Pune,Khed(Chakan),Tomato,Other,FAQ,2500,3500,3000,21 Oct 2021
+4,Pune,Khed(Chakan),Tomato,Other,FAQ,2000,4000,3000,20 Oct 2021
+5,Pune,Maanachar,Tomato,Other,FAQ,1000,3000,2485,21 Oct 2021
+6,Pune,Maanachar,Tomato,Other,FAQ,1000,4000,2585,20 Oct 2021
+7,Pune,Pune,Tomato,Local,FAQ,1500,3500,2500,21 Oct 2021
+8,Pune,Pune,Tomato,Local,FAQ,1400,4000,2700,20 Oct 2021
+9,Pune,Pune(Khadiki),Tomato,Local,FAQ,1300,2900,1800,21 Oct 2021
+10,Pune,Pune(Khadiki),Tomato,Local,FAQ,1500,3000,2250,20 Oct 2021
+11,Pune,Pune(Manjri),Tomato,Other,FAQ,2700,4100,3600,21 Oct 2021
+12,Pune,Pune(Manjri),Tomato,Other,FAQ,2300,4000,3100,20 Oct 2021
+13,Pune,Pune(Moshi),Tomato,Local,FAQ,1800,2000,1900,21 Oct 2021
+14,Pune,Pune(Pimpri),Tomato,Local,FAQ,3000,4000,3500,21 Oct 2021
+15,Pune,Pune(Pimpri),Tomato,Local,FAQ,3000,4200,3600,20 Oct 2021
